@@ -1,12 +1,9 @@
 {
-  "posts": [
+  "dabo": [
     {
       "id": 1,
       "title": "dabotiyu01",
       "gameID": 0
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
