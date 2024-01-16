@@ -1,9 +1,14 @@
 {
   "dabo": [
     {
-      "id": 1,
+      "id": 0,
       "title": "dabogame",
       "gameID": 0
+    },
+    {
+      "id": 1,
+      "title": "jumpgame",
+      "gameID": 1
     }
   ]
 }
